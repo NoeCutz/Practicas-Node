@@ -1,4 +1,4 @@
-## Practicas Nodes
+## Practicas Node
 
 Proyecto que contiene practicas iniciales de Node
 
